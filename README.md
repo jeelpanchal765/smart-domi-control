@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/df9c7a01-8fd8-4949-890d-91c94c65f651) and start prompting.
+Simply visit the [Lovable Project](https://smart-domi-control.vercel.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
