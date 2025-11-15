@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/df9c7a01-8fd8-4949-890d-91c94c65f651) and click on Share -> Publish.
+Simply open [Lovable](https://smart-domi-control.vercel.app/) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
